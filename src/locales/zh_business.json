@@ -1,0 +1,36 @@
+{
+	"aiouniya": {
+		"airuiliya": "艾瑞利亚",
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"airuiliya": "艾瑞利亚",
+		"addnew" : "新建艾欧尼亚",
+		"edit": "编辑艾欧尼亚",
+		"delete_confirm": "确实要永久性删除艾欧尼亚类 [ {0} ] 吗？",
+		"delete_success": "艾欧尼亚类 [ {0} ] 已被成功删除"
+	},
+	"lkss": {
+		"dles": "德莱厄斯",
+		"dles": "德莱厄斯",
+		"addnew" : "新建洛克萨斯",
+		"edit": "编辑洛克萨斯",
+		"delete_confirm": "确实要永久性删除洛克萨斯类 [ {0} ] 吗？",
+		"delete_success": "洛克萨斯类 [ {0} ] 已被成功删除"
+	},
+	"gailun": {
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"addnew" : "新建大盖伦",
+		"edit": "编辑大盖伦",
+		"delete_confirm": "确实要永久性删除大盖伦类 [ {0} ] 吗？",
+		"delete_success": "大盖伦类 [ {0} ] 已被成功删除"
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"aiouniya": {
+		"airuiliya": "艾瑞利亚",
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"airuiliya": "艾瑞利亚",
+		"addnew" : "New Aiouniya",
+		"edit": "Edit Aiouniya",
+		"delete_confirm": "Are you sure to delete Aiouniya [ {0} ] ?",
+		"delete_success": "Aiouniya [ {0} ] has been delete successfully"
+	},
+	"lkss": {
+		"dles": "德莱厄斯",
+		"dles": "德莱厄斯",
+		"addnew" : "New Lkss",
+		"edit": "Edit Lkss",
+		"delete_confirm": "Are you sure to delete Lkss [ {0} ] ?",
+		"delete_success": "Lkss [ {0} ] has been delete successfully"
+	},
+	"gailun": {
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"qmdj": "致命打击",
+		"abab": "abab",
+		"aabb": "aabb",
+		"sssp": "神圣审判",
+		"addnew" : "New Gailun",
+		"edit": "Edit Gailun",
+		"delete_confirm": "Are you sure to delete Gailun [ {0} ] ?",
+		"delete_success": "Gailun [ {0} ] has been delete successfully"
+	}
+}
